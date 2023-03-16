@@ -1,0 +1,16 @@
+C:\Users\pshum\source\repos\praltik1\bin\Debug\praltik1.exe.config
+C:\Users\pshum\source\repos\praltik1\bin\Debug\praltik1.exe
+C:\Users\pshum\source\repos\praltik1\bin\Debug\praltik1.pdb
+C:\Users\pshum\source\repos\praltik1\obj\Debug\praltik1.csproj.AssemblyReference.cache
+C:\Users\pshum\source\repos\praltik1\obj\Debug\praltik1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pshum\source\repos\praltik1\obj\Debug\MainWindow.g.cs
+C:\Users\pshum\source\repos\praltik1\obj\Debug\App.g.cs
+C:\Users\pshum\source\repos\praltik1\obj\Debug\praltik1_MarkupCompile.cache
+C:\Users\pshum\source\repos\praltik1\obj\Debug\praltik1_MarkupCompile.lref
+C:\Users\pshum\source\repos\praltik1\obj\Debug\MainWindow.baml
+C:\Users\pshum\source\repos\praltik1\obj\Debug\praltik1.g.resources
+C:\Users\pshum\source\repos\praltik1\obj\Debug\praltik1.Properties.Resources.resources
+C:\Users\pshum\source\repos\praltik1\obj\Debug\praltik1.csproj.GenerateResource.cache
+C:\Users\pshum\source\repos\praltik1\obj\Debug\praltik1.csproj.CoreCompileInputs.cache
+C:\Users\pshum\source\repos\praltik1\obj\Debug\praltik1.exe
+C:\Users\pshum\source\repos\praltik1\obj\Debug\praltik1.pdb
